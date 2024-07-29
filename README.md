@@ -1,6 +1,7 @@
 Wireshark
 Task 1
-Install and set up Wireshark on Ubuntu:
+Install and set up Wireshark:
+
 ● To install the most recent stable release of Wireshark on Ubuntu Linux, employ the add-apt-repository command as follows:
 ●Wireshark should not be run as a superuser for security reasons.
 ●The user can be added to the Wireshark group to add packet capture capabilities:
